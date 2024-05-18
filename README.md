@@ -50,5 +50,3 @@ Test Loss: 0.1806, Test Accuracy: 0.9511
          1.0       0.00      0.00      0.00        50
 
     accuracy                           0.95      1022
-   macro avg       0.48      0.50      0.49      1022
-weighted avg       0.90      0.95      0.93      1022
