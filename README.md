@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 
 # Neural Stroke
 
@@ -45,7 +44,7 @@ Data preparation for modeling:
 ## Results
 Test Loss: 0.1806, Test Accuracy: 0.9511
 
-precision    recall  f1-score   support
+                precision    recall  f1-score   support
 
          0.0       0.95      1.00      0.97       972
          1.0       0.00      0.00      0.00        50
